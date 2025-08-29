@@ -31,3 +31,15 @@ Global Attributes that used in every element of HTML
 
 
 +++++++++++++++++++++ lecture 6 +++++++++++++++++++++
+img tag
+* is used to the regulate different image on behalf of screen width or picture quality
+<picture>
+    <source media="(min-width : 650px)" srcset="./on.jpg"/> 
+    <source media="(min-width : 400px)" srcset="./off.jpg"/> 
+    <img src="./on.jpg" alt="" >
+  </picture>
+
+
+
+image Map 
+* used to make particular clickabel image section 
