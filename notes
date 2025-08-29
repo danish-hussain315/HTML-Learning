@@ -9,4 +9,21 @@ ShortCuts
 (cntrl + space)  // it will suggest the property values
 ul>li*4   // this will add 4 <li></li> to ul
 
+
++++++++++++++++++++++++ lecture 5 ++++++++++++++++ 
 Global Attributes that used in every element of HTML
+*colorformats in <HTML></HTML>
+1 rgb 
+2 rgba (aplha defines opacity dependent)
+3 hsl
+4 hsla (aplha defines opacity dependent)
+5 # (hexa) 
+6  colorname 
+7  Five other way to assign color 
+
+
+
+* <blockquote cite="Elon Musk"> My Quotation</blockquote>
+* <cite></cite>
+* <address></address>
+*<bdo dir=""></bdo>
