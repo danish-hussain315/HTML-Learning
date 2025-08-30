@@ -43,3 +43,31 @@ img tag
 
 image Map 
 * used to make particular clickabel image section 
+
+
+
+
+
+
+
++++++++++++++++++++++ lecture 9 ++++++++++
+iframe and sandbox
+
+
+++++++++++ lecture 10 +++++++++++++
+point that are accessible in head tag
+* tittle tag
+*<script></script>
+* <link rel="stylesheet" href="">          // used to external css
+* metatag of charset    utf-16 utf-8       //used to indicate the language of html to recognize internationally charcters
+
+
+* <meta name="keywords" content=""> // adds keywords to the head about page
+  Note :- most of meta tags contains name and content Attributes
+
+* <meta name="description" content="t"> // add description about your page
+* <meta http-equiv="refresh" content="30">     //it will refesh the page and futhur task depend on http-equiv value          but prefer JS is best practice
+*<meta name="viewport" content="width=device-width , initial-scale=1.0">    // works for mobile devices dont change anything on the desktop
+ note initial-scale=1.0" value from 0 to 1
+
+* <base href="url">    //stores base url of files
