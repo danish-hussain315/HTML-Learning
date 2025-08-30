@@ -71,3 +71,16 @@ point that are accessible in head tag
  note initial-scale=1.0" value from 0 to 1
 
 * <base href="url">    //stores base url of files
+
+
+++++++++++++++++ lecture 11 +++++++++++++=
+Sematics tag must use because these are simalar to use class in div but it is easy to understand for human and browser 
+
+
+
+
++++++++++++++++ lecture 12 forms ++++++++++++++++++++++++++++
+<form action="url or api" method="post or get"></form>  //also lot of other attribues for the
+lot of metthod of form tag visit mdn 
+
+++++++++++++++++ lecture 13 +++++++++++++++
