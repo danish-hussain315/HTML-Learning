@@ -84,3 +84,13 @@ Sematics tag must use because these are simalar to use class in div but it is ea
 lot of metthod of form tag visit mdn 
 
 ++++++++++++++++ lecture 13 +++++++++++++++ 
+
+
+
+lecture 14
+
+<video src="" muted controls autoplay>
+  <source>
+</video>
+<audio src=""></audio>
+html don't allow Api even the <canvas></canvas> cannot be used geo location etc are feature of browser
